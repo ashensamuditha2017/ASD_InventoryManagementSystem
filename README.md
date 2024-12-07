@@ -41,5 +41,5 @@ Retrieve detailed information about each product.
 S P Ashen Samudita (22UG1-0345)
 Tharuka Nandasiri (22ug1-0788)
 S.G.T.A.Anusarni (22ug1-0530)
-Samith Shashika 922UG1-0495)
+Samith Shashika (22UG1-0495)
 Adsaya Sivasuntharamoorthy(22ug2-0181)
